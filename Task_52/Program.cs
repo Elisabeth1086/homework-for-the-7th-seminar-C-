@@ -61,4 +61,4 @@ System.Console.WriteLine();
 
 ArithmeticMean(myMatrix);
 
-System.Console.WriteLine($"Среднее арифметическое элементов столбца = {myMatrix}");
+System.Console.WriteLine($"Среднее арифметическое элементов столбца = {ArithmeticMean(myMatrix)}");

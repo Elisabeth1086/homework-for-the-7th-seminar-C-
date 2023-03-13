@@ -39,11 +39,3 @@ for (int j = 0; j < number.GetLength(1); j++)
     Console.Write($"{ sum / number.GetLength(0)} ");
 }
 Console.ReadLine();
-
-
-
-
-
-
-
-
